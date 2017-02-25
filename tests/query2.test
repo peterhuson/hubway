@@ -1,0 +1,13 @@
+ARGS
+hubway.sqlite3
+INPUT
+2 42.369678 -71.125564 42.37863 -71.108505
+OUTPUT
+Cambridge Main Library at Broadway / Trowbridge St
+Harvard Kennedy School at Bennett St / Eliot St
+Harvard Square at Brattle St / Eliot St
+Harvard Square at Mass Ave/ Dunster
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St
+Harvard University Gund Hall at Quincy St / Kirkland S
+Harvard University River Houses / Plympton St at Memorial Drive
+END
